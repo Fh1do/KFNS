@@ -13,7 +13,7 @@ Do you feel like your Switch doesn't sound loud enough? Khowel lets you push you
 <img width="854" height="264" alt="Banner de Khowel" src="https://github.com/user-attachments/assets/05ca25fa-6353-4baa-a58f-90c4e113a2fd" />
 <br><br>
 
-> Developed as an overlay using **LibTesla**, it is compatible with **TeslaMenu** and **Ultrahand**.
+> **Khowel** was developed with **Libultrahand** in mind! In the future, it will gradually take advantage of its features.
 
 ---
 
