@@ -45,4 +45,4 @@ This project was created based on averne's [MasterVolume](https://github.com/ave
 
 ---
 
-> This project uses AI assistance for repetitive tasks.
+> This project uses AI assistance.
