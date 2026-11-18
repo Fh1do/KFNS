@@ -1,4 +1,3 @@
-
 # Khowel for Nintendo Switch 
 
 [![Platform](https://img.shields.io/badge/Platform-Switch-red)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -27,7 +26,7 @@ Do you feel like your Switch doesn't sound loud enough? Khowel lets you push you
 
 - **Hearing safety system:** Prevents the MasterVolume from increasing on other audio outputs, provided they are not the console's own speakers.
 
-<img width="427" height="240" alt="Unlocked mode" src="https://github.com/user-attachments/assets/9ca23d39-a266-431d-8cb2-735d248b494f" />
+<img width="427" height="240" alt="Locked mode" src="https://github.com/user-attachments/assets/236a0e3a-2e53-4c9d-bfc2-76c0d28a70fe" />
 <br><br>
 
 ---
