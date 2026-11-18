@@ -22,12 +22,12 @@ Do you feel like your Switch doesn't sound loud enough? Khowel lets you push you
 
 - **MasterVolume:** Increase the console's maximum volume from 100% to 150%, 200%, 250%, or 300%.
 
-<img width="640" height="360" alt="Unlocked mode" src="https://github.com/user-attachments/assets/9ca23d39-a266-431d-8cb2-735d248b494f" />
+<img width="427" height="240" alt="Unlocked mode" src="https://github.com/user-attachments/assets/9ca23d39-a266-431d-8cb2-735d248b494f" />
 <br><br>
 
 - **Hearing safety system:** Prevents the MasterVolume from increasing on other audio outputs, provided they are not the console's own speakers.
 
-<img width="640" height="360" alt="Unlocked mode" src="https://github.com/user-attachments/assets/9ca23d39-a266-431d-8cb2-735d248b494f" />
+<img width="427" height="240" alt="Unlocked mode" src="https://github.com/user-attachments/assets/9ca23d39-a266-431d-8cb2-735d248b494f" />
 <br><br>
 
 ---
