@@ -1,3 +1,4 @@
+
 # Khowel for Nintendo Switch 
 
 [![Platform](https://img.shields.io/badge/Platform-Switch-red)](https://gbatemp.net/forums/nintendo-switch.283/?prefix_id=44)
@@ -10,7 +11,7 @@ Khowel is a homebrew project for Nintendo Switch designed to enhance the console
 
 Do you feel like your Switch doesn't sound loud enough? Khowel lets you push your console's audio further, so you can enjoy your favorite games with louder sound.
 
-<img width="854" height="264" alt="Github Khowel banner" src="https://github.com/user-attachments/assets/f7e58e7a-8877-4394-98cb-1cee4d5cca2c" />
+<img width="854" height="264" alt="Banner de Khowel" src="https://github.com/user-attachments/assets/05ca25fa-6353-4baa-a58f-90c4e113a2fd" />
 <br><br>
 
 > Developed as an overlay using **LibTesla**, it is compatible with **TeslaMenu** and **Ultrahand**.
@@ -21,12 +22,12 @@ Do you feel like your Switch doesn't sound loud enough? Khowel lets you push you
 
 - **MasterVolume:** Increase the console's maximum volume from 100% to 150%, 200%, 250%, or 300%.
 
-<img width="146" height="240" alt="Unlocked mode" src="https://github.com/user-attachments/assets/ba21a102-4dc2-44f9-b435-7a85ff35d388" />
+<img width="640" height="360" alt="Unlocked mode" src="https://github.com/user-attachments/assets/9ca23d39-a266-431d-8cb2-735d248b494f" />
 <br><br>
 
 - **Hearing safety system:** Prevents the MasterVolume from increasing on other audio outputs, provided they are not the console's own speakers.
 
-<img width="146" height="240" alt="Locked mode" src="https://github.com/user-attachments/assets/895557ab-2abf-4b1a-a7e1-9f949bbf490a" />
+<img width="640" height="360" alt="Unlocked mode" src="https://github.com/user-attachments/assets/9ca23d39-a266-431d-8cb2-735d248b494f" />
 <br><br>
 
 ---
