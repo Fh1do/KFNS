@@ -44,3 +44,5 @@ It's necessary to restart the console to load the patches correctly.
 This project was created based on averne's [MasterVolume](https://github.com/averne/MasterVolume) project.
 
 ---
+
+> This project uses AI assistance for repetitive tasks.
