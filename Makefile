@@ -9,7 +9,7 @@ TOPDIR           ?=    $(CURDIR)
 APP_TITLE         =    NX-AudioControl
 APP_AUTHOR        =    "Fh1do"
 APP_ICON          =
-APP_VERSION       =    1.0.0
+APP_VERSION       =    1.0.1
 APP_TITLEID       =
 
 TARGET            =    NX-AudioControl
