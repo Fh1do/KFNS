@@ -1,0 +1,23 @@
+How to use the MasterVolumePatcher:
+===================================
+
+MasterVolumePatcher requires these Python packages:
+- lz4
+- capstone
+- keystone-engine
+
+You can install the packages with:
+py -3 -m pip install lz4 capstone keystone-engine
+
+With that installed, you should be able to run 
+"make all" and "make patch" without any issues.
+
+Some links:
+===========
+
+I downloaded hactoolnet from this link:
+https://gbatemp.net/download/hactoolnet.35243/
+
+MasterVolumePatcher was created based on the version
+published in averne's repository (patch_audio.py).
+https://github.com/averne/MasterVolume/tree/master/misc
